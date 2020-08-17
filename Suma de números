@@ -1,0 +1,8 @@
+# FundamentosAlgoritmo SUMADENUMEROS
+Escribir "ingrese primer sumando";
+Leer a;
+Escribir "ingrese segundo sumando";
+Leer b;
+c <- a+b; // <-
+Escribir "el resultado es:",c 
+FinAlgoritmo
